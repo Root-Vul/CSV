@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <separate>
   <DB>
       <!-- Elder -->
@@ -143,5 +143,11 @@
   </HTF>
   <Ignore>
     <value>685554228</value>
+    <value>364864978</value>
+    <value>3354955242</value>
+    <value>1511950183</value>
+    <value>846521155</value>
+    <value>3791399698</value>
+    <value>2696537573</value>
   </Ignore>
 </separate>
